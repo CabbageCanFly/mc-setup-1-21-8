@@ -2,7 +2,8 @@
 
 picked by cabbagecanfly • 2025-08-14
 
-client-side mod stuff.
+client-side mod stuff.  
+could definitely package this into a modpack. maybe another time.
 
 **minecraft version 1.21.8**
 
