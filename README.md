@@ -6,7 +6,7 @@ client-side mod stuff.
 [repository download here](https://github.com/CabbageCanFly/mc-setup-1-21-8/archive/refs/heads/main.zip)
 
 all files are included in the folders of the repository.  
-but curseforge url included for backup.
+but curseforge/modrinth URLs included for backup.
 
 could definitely package this into a modpack. maybe another time.
 
