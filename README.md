@@ -3,6 +3,10 @@
 picked by cabbagecanfly • 2025-08-14
 
 client-side mod stuff.  
+
+all files are included in the folders of the repository.  
+but curseforge url included for backup.
+
 could definitely package this into a modpack. maybe another time.
 
 **minecraft version 1.21.8**
