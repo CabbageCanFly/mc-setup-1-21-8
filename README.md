@@ -11,9 +11,9 @@ client-side mod stuff.
 - iris/sodium fabric launcher  
 https://www.irisshaders.dev/download  
 
-![launcher install](images/1-launcher.png)
+![launcher install](_images/1-launcher.png)
 
-![installation location](images/2-installation.png)
+![installation location](_images/2-installation.png)
 
 ## shaders
 
@@ -22,9 +22,9 @@ https://www.irisshaders.dev/download
 - complementary shader (manual zip file)  
 https://www.curseforge.com/minecraft/shaders/complementary-unbound/files/6515579  
 
-![shader location](images/3-shaders.png)
+![shader location](_images/3-shaders.png)
 
-![shader setting](images/6-shaders-setting.png)
+![shader setting](_images/6-shaders-setting.png)
 
 ## resource packs
 
@@ -33,13 +33,13 @@ https://www.curseforge.com/minecraft/shaders/complementary-unbound/files/6515579
 - smooth font  
 https://www.curseforge.com/minecraft/texture-packs/smooth-font/files/5623665  
 
-![resourcepack location](images/4-resourcepack.png)
+![resourcepack location](_images/4-resourcepack.png)
 
 ---
 
 ## mods
 
-![mods location](images/5-mods.png)
+![mods location](_images/5-mods.png)
 
 **required**
 
